@@ -4,16 +4,13 @@
 
 ---
 
-## 🖼️ Screenshot
+## 🖼️ Demo Screenshot
 
-![Screenshot 1](<img width="838" alt="front" src="https://github.com/user-attachments/assets/aa3d16de-5d00-4905-97c9-6f9441ebabf4" />
-)
+![Screenshot 1](https://github.com/user-attachments/assets/aa3d16de-5d00-4905-97c9-6f9441ebabf4)
 
-![Screenshot 2](<img width="934" alt="mid" src="https://github.com/user-attachments/assets/c7b92968-ac12-4fbc-b07d-92b9b4ba7731" />
-)  
+![Screenshot 2](https://github.com/user-attachments/assets/c7b92968-ac12-4fbc-b07d-92b9b4ba7731)
 
-![Screenshot 3](<img width="955" alt="end" src="https://github.com/user-attachments/assets/ccc53e20-907b-4587-849b-78b703180398" />
-)   
+![Screenshot 3](https://github.com/user-attachments/assets/ccc53e20-907b-4587-849b-78b703180398)
 
 ---
 
