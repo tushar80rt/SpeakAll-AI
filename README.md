@@ -6,18 +6,17 @@
 
 ## 🖼️ Screenshot
 
-![SpeakAll AI Screenshot](assets/speakall-screenshot.png)
+![Screenshot 1](<img width="838" alt="front" src="https://github.com/user-attachments/assets/aa3d16de-5d00-4905-97c9-6f9441ebabf4" />
+)
 
-> 💡 Save your screenshot as `speakall-screenshot.png` and place it in an `assets/` folder.
+![Screenshot 2](<img width="934" alt="mid" src="https://github.com/user-attachments/assets/c7b92968-ac12-4fbc-b07d-92b9b4ba7731" />
+)  
 
----
-
-## 📹 Demo
-
-🎥 **[Click to watch the demo](DONE2-demo.mp4)**  
-> Or upload to YouTube and link it here.
+![Screenshot 3](<img width="955" alt="end" src="https://github.com/user-attachments/assets/ccc53e20-907b-4587-849b-78b703180398" />
+)   
 
 ---
+
 
 ## 🚀 Features
 
@@ -29,15 +28,6 @@
 - 🖤 Beautiful dark-themed chat layout
 
 ---
-
-## ⚙️ Setup
-
-### 1. Clone the repo
-
-```bash
-git clone https://github.com/yourusername/speakall-ai.git
-cd speakall-ai
-```
 
 ### 2. Install dependencies
 
@@ -94,6 +84,4 @@ MIT License.
 
 ---
 
-## 🙏 Credits
-
-Made with ❤️ by [Your Name]
+Made with ❤️ by [TUSHAR SINGH]
