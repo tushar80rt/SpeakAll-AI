@@ -60,9 +60,7 @@ SpeakAll-AI/
 ├── camel_agents/            # Camel AI role-based language coach
 ├── main_app.py              # Streamlit frontend app
 ├── config.py                # API key file (keep secret)
-├── assets/                  # Screenshot and media
 ├── README.md                # Project description
-├── DONE2-demo.mp4           # Demo video
 ```
 
 ---
@@ -75,12 +73,6 @@ SpeakAll-AI/
 - [LLaMA 4 Maverick 17B](https://groq.com/)
 - [SpeechRecognition](https://pypi.org/project/SpeechRecognition/)
 - [pyttsx3](https://pypi.org/project/pyttsx3/)
-
----
-
-## 📜 License
-
-MIT License.
 
 ---
 
