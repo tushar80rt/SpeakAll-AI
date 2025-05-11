@@ -40,7 +40,6 @@ Create a `config.py` file:
 GROQ_API_KEY = "your_groq_api_key"
 ```
 
-> ⚠️ **Important:** Do not push this file to GitHub if your repo is public. Use `.gitignore`.
 
 ### 4. Run the app
 
