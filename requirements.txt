@@ -1,4 +1,7 @@
 streamlit
-speechrecognition
-pyttsx3
 camel-ai
+python-dotenv
+requests
+SpeechRecognition
+pyttsx3
+pyaudio  
